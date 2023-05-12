@@ -1,0 +1,1 @@
+const sketchpad = new sketchPad(sketchpadcontainer);
